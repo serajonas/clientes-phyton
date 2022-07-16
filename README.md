@@ -3,7 +3,7 @@
 
 Considerações dessa Aula : 
 
-    #**Afinal, o que é MVC?**
+# **Afinal, o que é MVC?**
 
 O MVC é um padrão de arquitetura de software. O MVC sugere uma maneira para você pensar na divisão de responsabilidades, principalmente dentro de um software web.
 
