@@ -20,3 +20,4 @@ Quando falamos sobre o MVC, cada uma das camadas apresenta geralmente as seguint
 
 ● **Controller** É a camada de controle, responsável por ligar o model e a view, fazendo com que os models possam ser repassados para as views e vice-versa.
 
+ ![Diagrama do MVC](diagramaMVC.png)
