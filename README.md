@@ -1,5 +1,5 @@
-# clientes-phyton
- Projeto de um cadastro de clientes utilizado para começar a compreender MVC e relembrar as estruturas básicas do Python
+# Clientes Python
+ Projeto de um cadastro de clientes utilizado para começar a compreender **MVC** e relembrar as estruturas básicas do Python
 
 Considerações dessa Aula : 
 
