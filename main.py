@@ -1,9 +1,3 @@
+import formulario
 
-    
-
-
-
-
-
-
-view()        
+formulario.formulario_login()

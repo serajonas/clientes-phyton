@@ -1,5 +1,5 @@
 # Controller - a validação
-def controller(usuario_digitado,senha_digitado):
+def validar_login(usuario_digitado,senha_digitado):
     usuario_BD = model_usuario()
     senha_BD = model_senha()
 
