@@ -1,0 +1,9 @@
+# Controller - a validação
+def controller(usuario_digitado,senha_digitado):
+    usuario_BD = model_usuario()
+    senha_BD = model_senha()
+
+    if usuario_digitado == usuario_BD and senha_digitado == senha_BD:
+        print("pode entrar")
+    else:
+        print("usuário ou senha inválido")
