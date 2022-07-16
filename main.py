@@ -1,7 +1,7 @@
-usuario = input("Informe o seu Usuário ")
-senha = input("Informe a sua Senha")
+usuario = input("Informe o seu Usuário > ")
+senha = input("Informe a sua Senha > ")
 
-if usuario  == 'joao' and senha == '123' ;
-    print("pode entrar")
+if usuario  == 'joao' and senha == '123':
+    print("*** Pode entrar *** ")
 else:
-    print("usuario ou senha invalidos")
+    print(" *** Usuario ou senha inválidos ***")
