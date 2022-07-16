@@ -19,3 +19,4 @@ Quando falamos sobre o MVC, cada uma das camadas apresenta geralmente as seguint
 ● **View** A view é responsável pela interface que será apresentada, mostrando as informações do model para o usuário.
 
 ● **Controller** É a camada de controle, responsável por ligar o model e a view, fazendo com que os models possam ser repassados para as views e vice-versa.
+
