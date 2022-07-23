@@ -1,3 +1,3 @@
-import views.formulario as formulario
+import controllers.controllerAplicacao as controllerAplicacao
 
-formulario.formulario_login()
+controllerAplicacao.iniciar()
