@@ -18,4 +18,10 @@ def menu():
     print("2 - Para Listar todos os Clientes") 
     print("3 - Para Sair")
     opcao = input(" Digite a opção :")
-    return opcao     
+    return opcao
+
+def cadastro_cliente():
+    nome = input("Informe seu Nome : ")
+    telefone = input("Informe seu Telefone : ")
+    cliente=[nome,telefone]  
+    return cliente      
