@@ -1,9 +1,9 @@
-from selectors import EpollSelector
 import models.banco as banco
 import views.formulario as view
 
 # Controller - a validação
 def validar_login(usuario_completo):
+
     usuario_BD = banco.model_usuario()
     senha_BD = banco.model_senha()
 
