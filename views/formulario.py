@@ -24,4 +24,7 @@ def cadastro_cliente():
     nome = input("Informe seu Nome : ")
     telefone = input("Informe seu Telefone : ")
     cliente=[nome,telefone]  
-    return cliente      
+    return cliente
+
+def cadastrar_cliente(cliente)
+    print("Cliente Cadastrado")           

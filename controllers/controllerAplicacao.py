@@ -25,4 +25,8 @@ def opcoes_menu():
         print("Listagem de Clientes")
     else:
         view.exibir_mensagem("Sistema Finalizado")
-        exit()                 
+        exit()
+
+def cadastrar_cliente():
+    cliente = view.cadastrar_cliente()
+    banco.model_cadastro_cliente(cliente)              
