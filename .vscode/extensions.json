@@ -1,0 +1,19 @@
+{
+    "recommendations": [
+        "wesbos.theme-cobalt2",
+        "formulahendry.code-runner",
+        "vscjava.vscode-java-debug",
+        "dracula-theme.theme-dracula",
+        "ms-toolsai.jupyter",
+        "redhat.java",
+        "pkief.material-icon-theme",
+        "techer.open-in-browser",
+        "ms-ceintl.vscode-language-pack-pt-br",
+        "ms-python.vscode-pylance",
+        "ms-python.python",
+        "2gua.rainbow-brackets",
+        "vscjava.vscode-java-test",
+        "github.vscode-pull-request-github",
+        "eamodio.gitlens"
+    ]
+}
